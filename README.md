@@ -1,8 +1,11 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="center">A passionate frontend developer from India</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanpicule&label=Profile%20views&color=0e75b6&style=flat" alt="sanpicule" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sanpicule&label=Profile%20views&color=0e75b6&style=flat" alt="sanpicule" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -24,8 +27,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanpicule&show_icons=true&locale=en&layout=compact" alt="sanpicule" /></p>
-
+<p align="left"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanpicule&theme=react" alt="sanpicule" /> </p>
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanpicule&theme=react" alt="sanpicule" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanpicule&theme=react&utcOffset=8" alt="sanpicule" />
+</p>
+<h3 align="left">GitHub Status</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanpicule&show_icons=true&locale=en" alt="sanpicule" /></p>
-
