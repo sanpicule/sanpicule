@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>World Clock - Multi-Timezone Digital Clock</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 class="main-title">
+                <span class="icon">🌍</span>
+                World Clock
+            </h1>
+            <div class="controls">
+                <button class="toggle-format" id="toggleFormat">
+                    <span id="formatText">24-Hour</span>
+                </button>
+                <button class="add-timezone" id="addTimezone">
+                    <span>+</span> Add Timezone
+                </button>
+            </div>
+        </header>
+
+        <div class="clocks-grid" id="clocksGrid">
+            <!-- Clock cards will be dynamically inserted here -->
+        </div>
+
+        <!-- Add Timezone Modal -->
+        <div class="modal" id="timezoneModal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2>Add Timezone</h2>
+                    <button class="close-modal" id="closeModal">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <input type="text" id="timezoneSearch" placeholder="Search timezone..." class="search-input">
+                    <div class="timezone-list" id="timezoneList">
+                        <!-- Timezone options will be populated here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
